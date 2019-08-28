@@ -9,4 +9,4 @@ Most veterinary clinics routinely run a wide range of analyses for their clients
 ## Further analysis
 
 For more analysis concerning this data, check out my [interactive Tableau dashboard](https://public.tableau.com/profile/alepoptosis#!/vizhome/Vetclinic2018overview/2018overview?publish=yes) featuring an overview of the vet clinic proceeds for 2018.
-![Image](https://pbs.twimg.com/media/EB1sd92XsAATpPH?format=jpg&name=4096x4096)
+![Image](https://i.imgur.com/TGoPM3p.png)
