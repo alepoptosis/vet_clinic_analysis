@@ -1,6 +1,6 @@
 # Identifying low-performing analyses at a veterinary clinic
 
-The investigation was carried out using Python v. 3.7.3 and Jupyter Notebook. The .ipynb file is available for download along with the dataset folder, containing 7 .csv files. The notebook can also be visualised on its own through GitHub, or, should it not load properly, [as an HTML page](https://alepoptosis.github.io/vet_clinic_analysis/vet_clinic_analysis.html).
+The investigation was carried out using Python v. 3.7.3 and Jupyter Notebook. The .ipynb file is available for download along with the dataset folder, containing 7 .csv files. The notebook can also be visualised on its own through GitHub, or preferably [as an HTML page](https://alepoptosis.github.io/vet_clinic_analysis/vet_clinic_analysis.html).
 
 ## Introduction
 
